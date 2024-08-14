@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1a995495-e1dc-4a0b-ac3c-c63b2d06edc2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customer/resources/src.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customer/resources/src_me.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customer/resources/src_new.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer/src/main/java/org/example/customer/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/customer/src/main/java/org/example/customer/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deploy.sh" beforeDir="false" afterPath="$PROJECT_DIR$/deploy.sh" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2ZODlgLr9xFiIq8lAQRM3df4PK4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ApiGWApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CustomerApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EurekaServerApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FraudApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NotificationApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Docker.amigos-services: Compose Deployment.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.amigoservices.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.clients [org.apache.maven.plugins:maven-clean-plugin:3.2.0:clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.clients [org.apache.maven.plugins:maven-compiler-plugin:3.11.0:compile].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.clients [org.apache.maven.plugins:maven-deploy-plugin:3.1.1:deploy].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.clients [org.apache.maven.plugins:maven-install-plugin:3.1.1:install-file].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.clients [org.apache.maven.plugins:maven-install-plugin:3.1.1:install].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;temurin-17&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/vincent.kipngeno/Documents/IntellijIdea-Workspace/spring-boot-fullstack-professional&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Maven.amigoservices">
+    <configuration name="amigoservices" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="cmdOptions" />
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="multimoduleDir" />
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="projectsCmdOptionValues">
+              <list />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="docker-compose.yml" temporary="true">
+      <deployment type="docker-compose.yml">
+        <settings />
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="amigos-services: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="sourceFilePath" value="../../workspace-spring-tool-suite-4-4.20.1.RELEASE/amigos-services/docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Docker.amigos-services: Compose Deployment" />
+      <item itemvalue="Maven.amigoservices" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.amigos-services: Compose Deployment" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-temurin-17.0.9-249ae16d76d6-579202fe" />
+        <option value="jdk-17.0.9-temurin-17.0.9-8336523bb0d9-f48365a1" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a995495-e1dc-4a0b-ac3c-c63b2d06edc2" name="Changes" comment="" />
+      <created>1702284384796</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702284384796</updated>
+    </task>
+    <servers />
+  </component>
+</project>

@@ -11,6 +11,16 @@ eval $(minikube docker-env)
 # Step 3: Build Docker Images for Microservices
 # microservices=("microservice1" "microservice2" "microservice3")
 
+# @Id
+#    @SequenceGenerator(
+#            name = "customer_id_sequence",
+#            sequenceName = "customer_id_sequence"
+#    )
+#    @GeneratedValue(
+#            strategy = GenerationType.SEQUENCE,
+#            generator = "customer_id_sequence"
+#    )
+
 # for service in "${microservices[@]}"
 # do
 #  echo "Building Docker image for $service"
