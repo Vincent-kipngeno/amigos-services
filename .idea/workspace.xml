@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1a995495-e1dc-4a0b-ac3c-c63b2d06edc2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/customer/resources/src.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/customer/resources/src_me.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/customer/resources/src_new.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/customer/src/main/java/org/example/customer/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/customer/src/main/java/org/example/customer/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deploy.sh" beforeDir="false" afterPath="$PROJECT_DIR$/deploy.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
